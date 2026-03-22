@@ -1,6 +1,7 @@
 
 
 # 🖱️ Auto Clicker (Python + Tkinter)
+<img width="296" height="249" alt="image" src="https://github.com/user-attachments/assets/1aa6eb6f-b3d5-4452-9139-c038c3b27706" />
 
 Простое GUI-приложение на Python для автоматического клика мышью с заданной скоростью.
 Поддерживает горячие клавиши и удобный интерфейс.
